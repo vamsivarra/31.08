@@ -1,0 +1,15 @@
+/Users/dundi/Projects/31.07/overriding/bin/Debug/net7.0/overriding
+/Users/dundi/Projects/31.07/overriding/bin/Debug/net7.0/overriding.deps.json
+/Users/dundi/Projects/31.07/overriding/bin/Debug/net7.0/overriding.runtimeconfig.json
+/Users/dundi/Projects/31.07/overriding/bin/Debug/net7.0/overriding.dll
+/Users/dundi/Projects/31.07/overriding/bin/Debug/net7.0/overriding.pdb
+/Users/dundi/Projects/31.07/overriding/obj/Debug/net7.0/overriding.csproj.AssemblyReference.cache
+/Users/dundi/Projects/31.07/overriding/obj/Debug/net7.0/overriding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dundi/Projects/31.07/overriding/obj/Debug/net7.0/overriding.AssemblyInfoInputs.cache
+/Users/dundi/Projects/31.07/overriding/obj/Debug/net7.0/overriding.AssemblyInfo.cs
+/Users/dundi/Projects/31.07/overriding/obj/Debug/net7.0/overriding.csproj.CoreCompileInputs.cache
+/Users/dundi/Projects/31.07/overriding/obj/Debug/net7.0/overriding.dll
+/Users/dundi/Projects/31.07/overriding/obj/Debug/net7.0/refint/overriding.dll
+/Users/dundi/Projects/31.07/overriding/obj/Debug/net7.0/overriding.pdb
+/Users/dundi/Projects/31.07/overriding/obj/Debug/net7.0/overriding.genruntimeconfig.cache
+/Users/dundi/Projects/31.07/overriding/obj/Debug/net7.0/ref/overriding.dll

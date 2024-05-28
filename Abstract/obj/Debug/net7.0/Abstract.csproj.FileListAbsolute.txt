@@ -1,0 +1,15 @@
+/Users/dundi/Projects/31.07/Abstract/bin/Debug/net7.0/Abstract
+/Users/dundi/Projects/31.07/Abstract/bin/Debug/net7.0/Abstract.deps.json
+/Users/dundi/Projects/31.07/Abstract/bin/Debug/net7.0/Abstract.runtimeconfig.json
+/Users/dundi/Projects/31.07/Abstract/bin/Debug/net7.0/Abstract.dll
+/Users/dundi/Projects/31.07/Abstract/bin/Debug/net7.0/Abstract.pdb
+/Users/dundi/Projects/31.07/Abstract/obj/Debug/net7.0/Abstract.csproj.AssemblyReference.cache
+/Users/dundi/Projects/31.07/Abstract/obj/Debug/net7.0/Abstract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dundi/Projects/31.07/Abstract/obj/Debug/net7.0/Abstract.AssemblyInfoInputs.cache
+/Users/dundi/Projects/31.07/Abstract/obj/Debug/net7.0/Abstract.AssemblyInfo.cs
+/Users/dundi/Projects/31.07/Abstract/obj/Debug/net7.0/Abstract.csproj.CoreCompileInputs.cache
+/Users/dundi/Projects/31.07/Abstract/obj/Debug/net7.0/Abstract.dll
+/Users/dundi/Projects/31.07/Abstract/obj/Debug/net7.0/refint/Abstract.dll
+/Users/dundi/Projects/31.07/Abstract/obj/Debug/net7.0/Abstract.pdb
+/Users/dundi/Projects/31.07/Abstract/obj/Debug/net7.0/Abstract.genruntimeconfig.cache
+/Users/dundi/Projects/31.07/Abstract/obj/Debug/net7.0/ref/Abstract.dll

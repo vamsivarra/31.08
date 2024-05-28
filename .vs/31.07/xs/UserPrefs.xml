@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{65D896E3-94E6-4B79-BFA9-AAF98C74F255}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Abstract/abstractexample.cs">
+    <Files>
+      <File FileName="Encapsulation/Program.cs" Line="6" Column="39" IsPinned="True" />
+      <File FileName="Abstract/abstractexample.cs" Line="10" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="31.07" expanded="True">
+            <Node name="Abstract">
+              <Node name="abstractexample.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Encapsulation FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Abstract PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
